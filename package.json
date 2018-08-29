@@ -1,0 +1,14 @@
+{
+  "name": "bloccit1",
+  "version": "1.0.0",
+  "description": "A Reddit-like application for users to discuss and share content",
+  "main": "index.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "author": "Sukhpreet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.0"
+  }
+}
